@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A change is as good as a Holiday
 Use the left arrow to go back!
